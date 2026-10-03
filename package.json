@@ -1,24 +1,21 @@
 {
-  "name": "dseg",
-  "description": "7 segment and 14 segment LCD font",
-  "version": "0.46.0",
-  "style": "css/dseg.css",
+  "name": "CIVASEG",
+  "description": "7 segment font for Carousel IV-A C/DU",
+  "version": "0.1.0",
+  "style": "css/CIVASEG.css",
   "keywords": [
     "font",
-    "lcd",
-    "icon"
+    "civa"
   ],
-  "homepage": "http://www.keshikan.net/fonts-e.html",
   "bugs": {
-    "url": "https://github.com/keshikan/DSEG/issues"
+    "url": "https://github.com/KJA1582/CIVASEG/issues"
   },
   "author": {
-    "name": "Keshikan",
-    "web": "http://www.keshikan.net"
+    "name": "Kilian Kurt Hofmann"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/keshikan/DSEG.git"
+    "url": "https://github.com/KJA1582/CIVASEG.git"
   },
   "license": "OFL-1.1",
   "dependencies": {},
@@ -26,4 +23,3 @@
     "node": ">=0.10.3"
   }
 }
-

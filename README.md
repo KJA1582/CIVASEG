@@ -1,18 +1,17 @@
-CIVA-SEG Font Family
+CIVASEG Font Family
 ====
 
-## Overview
+# Overview
 
-CIVA-SEG is a modifed version of [DSEG](https://github.com/keshikan/DSEG), meant to accurately protray the font used on the Delco Electronics Carosuel IV-A C/DU.
+CIVASEG is a modifed version of [DSEG](https://github.com/keshikan/CIVASEG), meant to accurately portray the font used on the Delco Electronics Carosuel IV-A C/DU.
 
- - Includes the roman-alphabet and symbol glyphs.
- - Many types(over 50) are available.
- - Licensed under [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL). You can use CIVA-SEG for non-commercial and commercial purposes.
- - 
-## Usage
+- Includes glyphs 0,1,2,3,4,5,6,7,8,9,L,R,.
+- Licensed under [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL). You can use CIVASEG for non-commercial and commercial purposes.
 
-Refer to the main DSEG repository for usage.
+# Usage
 
-## License
+Refer to the main CIVASEG repository for usage.
 
-- Any font files(*.ttf, *.woff, *.sfd) are licensed under the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)
+# License
+
+- Any font files(\*.ttf, \*.woff, \*.sfd) are licensed under the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)

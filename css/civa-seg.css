@@ -1,0 +1,31 @@
+/* CIVASEG Classic MINI */
+
+@font-face {
+  font-family: 'CIVASEG-Classic-MINI';
+  src:
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-BoldItalic.woff2') format('woff2'),
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-BoldItalic.woff') format('woff'),
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CIVASEG-Classic-MINI';
+  src:
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-Italic.woff2') format('woff2'),
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-Italic.woff') format('woff'),
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CIVASEG-Classic-MINI';
+  src:
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-LightItalic.woff2') format('woff2'),
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-LightItalic.woff') format('woff'),
+    url('../fonts/CIVASEG-Classic-MINI/CIVASEGClassicMini-LightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
